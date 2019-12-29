@@ -1,0 +1,48 @@
+{
+  "name": "@logux/stylelint-config",
+  "version": "0.0.0",
+  "description": "Stylelint shareable config for Logux",
+  "keywords": [
+    "logux",
+    "stylelint",
+    "stylelint-config"
+  ],
+  "scripts": {
+    "test": "yaspeller *.md"
+  },
+  "author": "Andrey Sitnik <andrey@sitnik.ru>",
+  "license": "MIT",
+  "repository": "logux/stylelint-config",
+  "peerDependencies": {
+    "stylelint": "^12.0.0",
+    "stylelint-config-recess-order": "^2.0.3",
+    "stylelint-config-standard": "^19.0.0",
+    "stylelint-order": "^3.1.1"
+  },
+  "devDependencies": {
+    "clean-publish": "^1.1.4",
+    "husky": "^3.1.0",
+    "lint-staged": "^9.5.0",
+    "yaspeller": "^6.0.2"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "*.md": "yaspeller"
+  },
+  "yaspeller": {
+    "lang": "en",
+    "ignoreCapitalization": true,
+    "ignoreText": [
+      " \\(by [^)]+\\)."
+    ],
+    "dictionary": [
+      "Versioning",
+      "Stylelint",
+      "Logux"
+    ]
+  }
+}
