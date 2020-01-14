@@ -35,7 +35,8 @@
     }
   },
   "lint-staged": {
-    "*.md": "yaspeller"
+    "*.md": "yaspeller",
+    "package.json": "./check-peer"
   },
   "yaspeller": {
     "lang": "en",
