@@ -7,6 +7,9 @@ module.exports = {
     'declaration-block-trailing-semicolon': null,
     'block-closing-brace-newline-before': null,
     'block-opening-brace-space-before': null,
+    "selector-pseudo-class-no-unknown": [true, {
+      "ignorePseudoClasses": ["global"]
+    }],
     'at-rule-no-unknown': [true, {
       ignoreAtRules: [
         'define-mixin',
