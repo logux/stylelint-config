@@ -1,6 +1,9 @@
 # Change Log
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## 0.2
+* Removed `custom-property-empty-line-before` rule.
+
 ## 0.1.4
 * Add `:global()` support.
 * Disable `declaration-colon-newline-after` rule.
