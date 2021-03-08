@@ -16,7 +16,7 @@ Shareable [Stylelint] config and best practice for CSS.
 ## Install
 
 ```sh
-yarn add --dev @logux/stylelint-config stylelint stylelint-config-recess-order stylelint-config-standard stylelint-order
+yarn add --dev @logux/stylelint-config stylelint
 ```
 
 
