@@ -1,6 +1,10 @@
 # Change Log
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## 0.3
+* Used `stylelint-config-standard` 21.0.
+* Moved from `peerDependencies` to `dependencies`.
+
 ## 0.2
 * Removed `custom-property-empty-line-before` rule.
 
