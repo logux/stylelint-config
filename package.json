@@ -14,18 +14,18 @@
   "license": "MIT",
   "repository": "logux/stylelint-config",
   "peerDependencies": {
-    "stylelint": "^13.8.0",
+    "stylelint": "^13.12.0",
     "stylelint-config-recess-order": "^2.3.0",
-    "stylelint-config-standard": "^20.0.0",
+    "stylelint-config-standard": "^21.0.0",
     "stylelint-order": "^4.1.0"
   },
   "devDependencies": {
-    "clean-publish": "^1.1.8",
+    "clean-publish": "^1.1.9",
     "husky": "^4.3.6",
-    "lint-staged": "^10.5.3",
-    "stylelint": "^13.8.0",
+    "lint-staged": "^10.5.4",
+    "stylelint": "^13.12.0",
     "stylelint-config-recess-order": "^2.3.0",
-    "stylelint-config-standard": "^20.0.0",
+    "stylelint-config-standard": "^21.0.0",
     "stylelint-order": "^4.1.0",
     "yaspeller": "^7.0.0"
   },
