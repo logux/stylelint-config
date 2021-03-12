@@ -1,6 +1,9 @@
 # Change Log
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## 0.3.1
+* Reduced package size.
+
 ## 0.3
 * Used `stylelint-config-standard` 21.0.
 * Moved from `peerDependencies` to `dependencies`.
