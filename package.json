@@ -23,19 +23,8 @@
   },
   "devDependencies": {
     "clean-publish": "^2.1.1",
-    "lint-staged": "^10.5.4",
-    "simple-git-hooks": "^2.3.1",
     "stylelint": "^13.12.0",
-    "stylelint-config-recess-order": "^2.3.0",
-    "stylelint-config-standard": "^21.0.0",
-    "stylelint-order": "^4.1.0",
     "yaspeller": "^7.0.0"
-  },
-  "simple-git-hooks": {
-    "pre-commit": "npx lint-staged"
-  },
-  "lint-staged": {
-    "*.md": "yaspeller"
   },
   "yaspeller": {
     "lang": "en",
