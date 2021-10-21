@@ -8,23 +8,23 @@
     "stylelint-config"
   ],
   "scripts": {
-    "test": "yaspeller *.md"
+    "test": "stylelint test/*.css && yaspeller *.md"
   },
   "author": "Andrey Sitnik <andrey@sitnik.ru>",
   "license": "MIT",
   "repository": "logux/stylelint-config",
   "dependencies": {
-    "stylelint-config-recess-order": "^2.4.0",
-    "stylelint-config-standard": "^21.0.0",
+    "stylelint-config-recess-order": "^2.5.0",
+    "stylelint-config-standard": "^23.0.0",
     "stylelint-order": "^4.1.0"
   },
   "peerDependencies": {
-    "stylelint": "^13.12.0"
+    "stylelint": "^14.0.0"
   },
   "devDependencies": {
-    "clean-publish": "^2.1.1",
-    "stylelint": "^13.12.0",
-    "yaspeller": "^7.0.0"
+    "clean-publish": "^3.4.2",
+    "stylelint": "^14.0.0",
+    "yaspeller": "^7.2.0"
   },
   "yaspeller": {
     "lang": "en",
