@@ -1,6 +1,9 @@
 # Change Log
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## 0.4.1
+* Updated `stylelint-order`.
+
 ## 0.4
 * Moved to `stylelint` 14.
 
