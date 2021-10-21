@@ -8,7 +8,7 @@
     "stylelint-config"
   ],
   "scripts": {
-    "test": "yaspeller *.md"
+    "test": "stylelint test/*.css && yaspeller *.md"
   },
   "author": "Andrey Sitnik <andrey@sitnik.ru>",
   "license": "MIT",
