@@ -22,8 +22,8 @@
     "stylelint": "^14.0.0"
   },
   "devDependencies": {
-    "clean-publish": "^3.4.2",
-    "stylelint": "^14.0.0"
+    "clean-publish": "^3.4.3",
+    "stylelint": "^14.0.1"
   },
   "prettier": {
     "arrowParens": "avoid",
