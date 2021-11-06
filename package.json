@@ -26,6 +26,14 @@
     "stylelint": "^14.0.0",
     "yaspeller": "^7.2.0"
   },
+  "prettier": {
+    "arrowParens": "avoid",
+    "jsxSingleQuote": false,
+    "quoteProps": "consistent",
+    "semi": false,
+    "singleQuote": true,
+    "trailingComma": "none"
+  },
   "yaspeller": {
     "lang": "en",
     "ignoreCapitalization": true,
