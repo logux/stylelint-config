@@ -20,5 +20,17 @@ module.exports = {
       }
     ],
     'color-no-hex': true
-  }
+  },
+  overrides: [
+    {
+      files: ['**/*.sss'],
+      rules: {
+        'declaration-block-trailing-semicolon': null,
+        'block-closing-brace-newline-before': null,
+        'custom-property-empty-line-before': null,
+        'block-opening-brace-space-before': null,
+        'declaration-colon-newline-after': null
+      }
+    }
+  ]
 }
