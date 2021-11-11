@@ -1,6 +1,10 @@
 # Change Log
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## 0.7
+* Removed color function rules.
+* Added code style rules which had conflict with SugarSS.
+
 ## 0.6
 * Disabled `property-no-vendor-prefix`.
 * Added color format rules.
