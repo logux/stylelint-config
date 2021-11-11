@@ -9,6 +9,7 @@ module.exports = {
       }
     ],
     'property-no-vendor-prefix': null,
+    'function-disallowed-list': ['rgba', 'hsla'],
     'color-function-notation': 'modern',
     'selector-class-pattern': null,
     'alpha-value-notation': 'number',
