@@ -19,7 +19,7 @@ module.exports = {
     'color-function-notation': 'modern',
     'selector-class-pattern': null,
     'alpha-value-notation': 'number',
-    'hue-degree-notation': 'angle',
+    'hue-degree-notation': 'number',
     'at-rule-no-unknown': [
       true,
       {
