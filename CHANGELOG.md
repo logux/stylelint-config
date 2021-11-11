@@ -1,6 +1,9 @@
 # Change Log
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## 0.7.1
+* Fixed SugarSS conflict.
+
 ## 0.7
 * Removed color function rules.
 * Added code style rules which had conflict with SugarSS.
