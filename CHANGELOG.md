@@ -1,6 +1,11 @@
 # Change Log
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## 0.6
+* Disabled `property-no-vendor-prefix`.
+* Added color format rules.
+* Added rules for space before `{`.
+
 ## 0.5
 * Disabled `selector-class-pattern` rule.
 
