@@ -1,6 +1,9 @@
 # Change Log
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## 0.8
+* Added rule to prohibit `rgba()` and `hsla()` functions.
+
 ## 0.7.1
 * Fixed SugarSS conflict.
 
