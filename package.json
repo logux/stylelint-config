@@ -14,8 +14,8 @@
   "license": "MIT",
   "repository": "logux/stylelint-config",
   "dependencies": {
-    "stylelint-config-recess-order": "^2.6.0",
-    "stylelint-config-standard": "^23.0.0",
+    "stylelint-config-recess-order": "^3.0.0",
+    "stylelint-config-standard": "^24.0.0",
     "stylelint-order": "^5.0.0"
   },
   "peerDependencies": {
@@ -23,7 +23,7 @@
   },
   "devDependencies": {
     "clean-publish": "^3.4.3",
-    "stylelint": "^14.0.1"
+    "stylelint": "^14.1.0"
   },
   "prettier": {
     "arrowParens": "avoid",
