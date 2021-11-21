@@ -1,6 +1,11 @@
 # Change Log
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## 0.8.1
+* Updated `stylelint-config-standard`.
+* Removed `function-url-quotes`.
+* Removed `no-irregular-whitespace`.
+
 ## 0.8
 * Added rule to prohibit `rgba()` and `hsla()` functions.
 
