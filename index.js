@@ -13,6 +13,7 @@ module.exports = {
     'color-function-notation': 'modern',
     'no-irregular-whitespace': null,
     'selector-class-pattern': null,
+    'alpha-value-notation': 'number',
     'function-url-quotes': null,
     'hue-degree-notation': 'number',
     'at-rule-no-unknown': [
