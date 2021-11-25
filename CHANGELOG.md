@@ -1,6 +1,9 @@
 # Change Log
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## 0.9
+* Use `0.x` instead of `x%` for alpha.
+
 ## 0.8.1
 * Updated `stylelint-config-standard`.
 * Removed `function-url-quotes`.
