@@ -17,7 +17,7 @@ Shareable [Stylelint] config and best practice for CSS.
 ## Install
 
 ```sh
-yarn add --dev @logux/stylelint-config stylelint
+pnpm add --save-dev @logux/stylelint-config stylelint
 ```
 
 
