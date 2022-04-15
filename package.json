@@ -15,15 +15,15 @@
   "repository": "logux/stylelint-config",
   "dependencies": {
     "stylelint-config-recess-order": "^3.0.0",
-    "stylelint-config-standard": "^24.0.0",
+    "stylelint-config-standard": "^25.0.0",
     "stylelint-order": "^5.0.0"
   },
   "peerDependencies": {
     "stylelint": "^14.2.0"
   },
   "devDependencies": {
-    "clean-publish": "^3.4.5",
-    "stylelint": "^14.2.0"
+    "clean-publish": "^4.0.0",
+    "stylelint": "^14.7.0"
   },
   "prettier": {
     "arrowParens": "avoid",
