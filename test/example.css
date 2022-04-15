@@ -1,3 +1,4 @@
 .block_element.is-mod {
   display: block;
+  background: oklch(0% 0 0);
 }
