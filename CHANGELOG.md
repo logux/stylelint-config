@@ -1,6 +1,9 @@
 # Change Log
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## 0.9.1
+* Updated `stylelint-config-standard`.
+
 ## 0.9
 * Use `0.x` instead of `x%` for alpha.
 
