@@ -1,6 +1,9 @@
 # Change Log
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## 0.10
+* Added `keyframe-block-no-duplicate-selectors` rule.
+
 ## 0.9.2
 * Fixed `oklch()` function support.
 
