@@ -2,6 +2,7 @@ module.exports = {
   extends: ['stylelint-config-standard', 'stylelint-config-recess-order'],
   rules: {
     'declaration-property-value-disallowed-list': {},
+    'keyframe-block-no-duplicate-selectors': true,
     'selector-pseudo-class-no-unknown': [
       true,
       {
