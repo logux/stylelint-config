@@ -4,6 +4,8 @@ on:
     branches:
       - main
   pull_request:
+env:
+  FORCE_COLOR: 2
 jobs:
   build:
     name: Test
@@ -24,5 +26,3 @@ jobs:
         run: pnpm install --frozen-lockfile --ignore-scripts
       - name: Run all tests
         run: pnpm test
-        env:
-          FORCE_COLOR: 2
