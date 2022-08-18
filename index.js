@@ -1,5 +1,6 @@
 module.exports = {
   extends: ['stylelint-config-standard', 'stylelint-config-recess-order'],
+  plugins: ['stylelint-gamut'],
   rules: {
     'declaration-property-value-disallowed-list': {},
     'keyframe-block-no-duplicate-selectors': true,
@@ -9,6 +10,7 @@ module.exports = {
         ignorePseudoClasses: ['global']
       }
     ],
+    'gamut/color-no-out-gamut-range': true,
     'property-no-vendor-prefix': null,
     'function-disallowed-list': ['rgba', 'hsla'],
     'color-function-notation': 'modern',

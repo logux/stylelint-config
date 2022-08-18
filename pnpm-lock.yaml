@@ -5,11 +5,13 @@ specifiers:
   stylelint: ^14.10.0
   stylelint-config-recess-order: ^3.0.0
   stylelint-config-standard: ^27.0.0
+  stylelint-gamut: ^1.1.1
   stylelint-order: ^5.0.0
 
 dependencies:
   stylelint-config-recess-order: 3.0.0_stylelint@14.10.0
   stylelint-config-standard: 27.0.0_stylelint@14.10.0
+  stylelint-gamut: 1.1.1_stylelint@14.10.0
   stylelint-order: 5.0.0_stylelint@14.10.0
 
 devDependencies:
@@ -181,6 +183,10 @@ packages:
 
   /colord/2.9.3:
     resolution: {integrity: sha512-jeC1axXpnb0/2nn/Y1LPuLdgXBLH7aDcHu4KEKfqw3CUhX7ZpfBSlPKyqXE6btIgEzfWtrX3/tyBCaCvXvMkOw==}
+
+  /colorjs.io/0.4.0:
+    resolution: {integrity: sha512-AUKG9GCDSHsFRUnxGrEMCm6nq6lxddnDvD0avmsy/klCEk68htpqgl9IERGtGoxaGJlr7uP5wmD381gY2uG8hw==}
+    dev: false
 
   /concat-map/0.0.1:
     resolution: {integrity: sha1-2Klr13/Wjfd5OnMDajug1UBdR3s=}
@@ -861,6 +867,16 @@ packages:
     dependencies:
       stylelint: 14.10.0
       stylelint-config-recommended: 9.0.0_stylelint@14.10.0
+    dev: false
+
+  /stylelint-gamut/1.1.1_stylelint@14.10.0:
+    resolution: {integrity: sha512-0biLq40aR0yRYuQxy3R60WnMbjBi8r6oDPN7XMbExK2dLGe6mva/OHTIE7AX11aRPIL05dYC/0qq/Hi1owWq0A==}
+    engines: {node: '>=16.0.0'}
+    peerDependencies:
+      stylelint: ^14.10.0
+    dependencies:
+      colorjs.io: 0.4.0
+      stylelint: 14.10.0
     dev: false
 
   /stylelint-order/5.0.0_stylelint@14.10.0:
