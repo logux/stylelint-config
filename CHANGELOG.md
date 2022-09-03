@@ -1,8 +1,11 @@
 # Change Log
 This project adheres to [Semantic Versioning](http://semver.org/).
 
-## 0.11.0
-* Updated `stylelint-config-standard` to 27.0.
+## 0.12
+* Updated `stylelint-config-standard` to 28.
+
+## 0.11
+* Updated `stylelint-config-standard` to 27.
 * Added `gamut/color-no-out-gamut-range` rule.
 
 ## 0.10.1
