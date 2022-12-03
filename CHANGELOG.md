@@ -1,6 +1,10 @@
 # Change Log
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## 0.13
+* Updated `stylelint-config-standard` to 29.
+* Added `media-feature-range-notation` rule.
+
 ## 0.12
 * Updated `stylelint-config-standard` to 28.
 
