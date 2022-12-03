@@ -11,6 +11,7 @@ module.exports = {
       }
     ],
     'gamut/color-no-out-gamut-range': true,
+    'media-feature-range-notation': 'context',
     'property-no-vendor-prefix': null,
     'function-disallowed-list': ['rgba', 'hsla'],
     'color-function-notation': 'modern',
