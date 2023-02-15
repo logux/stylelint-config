@@ -16,15 +16,15 @@
   "dependencies": {
     "stylelint-config-recess-order": "^3.1.0",
     "stylelint-config-standard": "^30.0.1",
-    "stylelint-gamut": "^1.3.0",
-    "stylelint-order": "^6.0.1"
+    "stylelint-gamut": "^1.3.1",
+    "stylelint-order": "^6.0.2"
   },
   "peerDependencies": {
     "stylelint": "^14.16.0"
   },
   "devDependencies": {
     "clean-publish": "^4.1.1",
-    "stylelint": "^15.0.0"
+    "stylelint": "^15.1.0"
   },
   "prettier": {
     "arrowParens": "avoid",
