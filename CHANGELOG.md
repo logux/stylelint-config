@@ -1,6 +1,10 @@
 # Change Log
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## 0.15
+* Updated `stylelint-config-standard` to 33.
+* Updated `stylelint-config-recess-order` to 4.
+
 ## 0.14
 * Updated `stylelint-config-standard` to 30.
 
