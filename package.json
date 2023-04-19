@@ -20,7 +20,7 @@
     "stylelint-order": "^6.0.3"
   },
   "peerDependencies": {
-    "stylelint": "^14.16.0"
+    "stylelint": "^15.5.0"
   },
   "devDependencies": {
     "clean-publish": "^4.2.0",
