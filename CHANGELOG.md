@@ -1,6 +1,9 @@
 # Change Log
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## 0.15.1
+* Fixed peer dependencies warning.
+
 ## 0.15
 * Updated `stylelint-config-standard` to 33.
 * Updated `stylelint-config-recess-order` to 4.
