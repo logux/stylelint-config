@@ -1,12 +1,11 @@
 # Logux Stylelint Config
 
 <img align="right" width="95" height="148" title="Logux logotype"
-     src="https://logux.io/branding/logotype.svg">
+     src="https://logux.org/branding/logotype.svg">
 
 Shareable [Stylelint] config and best practice for CSS.
 
 [Stylelint]: https://stylelint.io/
-[Logux]: https://logux.io/
 
 <a href="https://evilmartians.com/?utm_source=logux-stylelint">
   <img src="https://evilmartians.com/badges/sponsored-by-evil-martians.svg"
