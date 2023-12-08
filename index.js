@@ -3,7 +3,6 @@ module.exports = {
   plugins: ['stylelint-gamut'],
   rules: {
     'declaration-property-value-disallowed-list': {},
-    'declaration-property-value-no-unknown': true,
     'keyframe-block-no-duplicate-selectors': true,
     'selector-pseudo-class-no-unknown': [
       true,
