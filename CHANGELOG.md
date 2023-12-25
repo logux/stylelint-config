@@ -1,6 +1,9 @@
 # Change Log
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## 0.18
+* Updated `stylelint-config-standard` to 36.
+
 ## 0.17
 * Updated `stylelint` to 16.
 * Updated `stylelint-config-standard` to 35.
