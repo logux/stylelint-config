@@ -15,6 +15,12 @@ module.exports = {
     'function-disallowed-list': ['rgba', 'hsla'],
     'color-function-notation': 'modern',
     'no-irregular-whitespace': null,
+    'keyframes-name-pattern': [
+      '^--([a-z][a-z0-9]*)(-[a-z0-9]+)*$',
+      {
+        message: name => `Expected keyframe name ${name} to be --kebab-case`
+      }
+    ],
     'selector-class-pattern': null,
     'alpha-value-notation': 'number',
     'function-url-quotes': null,
