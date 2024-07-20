@@ -1,8 +1,11 @@
 # Change Log
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## 0.20.0
+* Moved to float in `oklch()` since `calc()` has issue with `%`.
+
 ## 0.19.0
-* Add rule to have `--` in keyframe names as any other user-defined token.
+* Added rule to have `--` in keyframe names as any other user-defined token.
 
 ## 0.18
 * Updated `stylelint-config-standard` to 36.
