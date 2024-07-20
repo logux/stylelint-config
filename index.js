@@ -25,6 +25,7 @@ module.exports = {
     'alpha-value-notation': 'number',
     'function-url-quotes': null,
     'hue-degree-notation': 'number',
+    'lightness-notation': 'number',
     'at-rule-no-unknown': [
       true,
       {

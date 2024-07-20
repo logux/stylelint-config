@@ -1,6 +1,6 @@
 .block_element.is-mod {
   display: block;
-  background: oklch(0% 0 0);
+  background: oklch(0 0 0);
   animation: --rotating 1s linear infinite;
 }
 
