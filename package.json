@@ -15,7 +15,7 @@
   "repository": "logux/stylelint-config",
   "dependencies": {
     "stylelint-config-recess-order": "^5.0.1",
-    "stylelint-config-standard": "^36.0.0",
+    "stylelint-config-standard": "^36.0.1",
     "stylelint-gamut": "^1.3.4",
     "stylelint-order": "^6.0.4"
   },
@@ -24,7 +24,7 @@
   },
   "devDependencies": {
     "clean-publish": "^5.0.0",
-    "stylelint": "^16.6.1"
+    "stylelint": "^16.7.0"
   },
   "prettier": {
     "arrowParens": "avoid",
