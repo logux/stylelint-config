@@ -1,6 +1,11 @@
 # Change Log
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## 0.21.0
+* Moved to Stylelint Standard 38.
+* Moved to Stylelint Recss Order 7.
+* Use warning level for properties order rule.
+
 ## 0.20.0
 * Moved to float in `oklch()` since `calc()` has issue with `%`.
 
