@@ -1,6 +1,8 @@
+let propertyGroups = require('stylelint-config-recess-order/groups')
+
 module.exports = {
-  extends: ['stylelint-config-standard', 'stylelint-config-recess-order'],
-  plugins: ['stylelint-gamut'],
+  extends: ['stylelint-config-standard'],
+  plugins: ['stylelint-gamut', 'stylelint-order'],
   rules: {
     'declaration-property-value-disallowed-list': {},
     'keyframe-block-no-duplicate-selectors': true,
@@ -21,6 +23,7 @@ module.exports = {
         message: name => `Expected keyframe name ${name} to be --kebab-case`
       }
     ],
+    'order/properties-order': [propertyGroups.default, { severity: 'warning' }],
     'selector-class-pattern': null,
     'alpha-value-notation': 'number',
     'function-url-quotes': null,
