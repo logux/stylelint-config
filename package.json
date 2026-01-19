@@ -23,6 +23,7 @@
     "stylelint": "^17.0.0"
   },
   "devDependencies": {
+    "actions-up": "^1.9.0",
     "clean-publish": "^6.0.1",
     "stylelint": "^17.0.0"
   },
