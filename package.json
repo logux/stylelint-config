@@ -25,6 +25,7 @@
   "devDependencies": {
     "actions-up": "^1.9.0",
     "clean-publish": "^6.0.1",
+    "multiocular": "^0.8.2",
     "stylelint": "^17.0.0"
   },
   "prettier": {
