@@ -1,6 +1,10 @@
 # Change Log
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## 0.22.0
+* Moved to Stylelint Standard 40.
+* Moved to Stylelint 17.
+
 ## 0.21.0
 * Moved to Stylelint Standard 38.
 * Moved to Stylelint Recss Order 7.
