@@ -11,6 +11,10 @@
   "author": "Andrey Sitnik <andrey@sitnik.es>",
   "repository": "logux/stylelint-config",
   "type": "module",
+  "exports": {
+    ".": "./index.js",
+    "./package.json": "./package.json"
+  },
   "scripts": {
     "test": "stylelint test/*.css"
   },
