@@ -2,6 +2,10 @@
 
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## 1.0.1
+
+- Fixed `exports` in `package.json`.
+
 ## 1.0.0
 
 - Moved to ESM.
