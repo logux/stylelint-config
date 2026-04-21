@@ -10,6 +10,7 @@
   "license": "MIT",
   "author": "Andrey Sitnik <andrey@sitnik.es>",
   "repository": "logux/stylelint-config",
+  "type": "module",
   "scripts": {
     "test": "stylelint test/*.css"
   },
