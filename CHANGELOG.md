@@ -2,6 +2,12 @@
 
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## 1.0.0
+
+- Moved to ESM.
+- Moved to stylelint-gamut 2.
+- Moved to stylelint-order 8.
+
 ## 0.22.0
 
 - Moved to Stylelint Standard 40.
