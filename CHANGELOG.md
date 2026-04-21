@@ -1,118 +1,153 @@
 # Change Log
+
 This project adheres to [Semantic Versioning](http://semver.org/).
 
 ## 0.22.0
-* Moved to Stylelint Standard 40.
-* Moved to Stylelint 17.
+
+- Moved to Stylelint Standard 40.
+- Moved to Stylelint 17.
 
 ## 0.21.0
-* Moved to Stylelint Standard 38.
-* Moved to Stylelint Recss Order 7.
-* Use warning level for properties order rule.
+
+- Moved to Stylelint Standard 38.
+- Moved to Stylelint Recss Order 7.
+- Use warning level for properties order rule.
 
 ## 0.20.0
-* Moved to float in `oklch()` since `calc()` has issue with `%`.
+
+- Moved to float in `oklch()` since `calc()` has issue with `%`.
 
 ## 0.19.0
-* Added rule to have `--` in keyframe names as any other user-defined token.
+
+- Added rule to have `--` in keyframe names as any other user-defined token.
 
 ## 0.18
-* Updated `stylelint-config-standard` to 36.
+
+- Updated `stylelint-config-standard` to 36.
 
 ## 0.17
-* Updated `stylelint` to 16.
-* Updated `stylelint-config-standard` to 35.
+
+- Updated `stylelint` to 16.
+- Updated `stylelint-config-standard` to 35.
 
 ## 0.16
-* Updated `stylelint-config-standard` to 34.
+
+- Updated `stylelint-config-standard` to 34.
 
 ## 0.15.1
-* Fixed peer dependencies warning.
+
+- Fixed peer dependencies warning.
 
 ## 0.15
-* Updated `stylelint-config-standard` to 33.
-* Updated `stylelint-config-recess-order` to 4.
+
+- Updated `stylelint-config-standard` to 33.
+- Updated `stylelint-config-recess-order` to 4.
 
 ## 0.14
-* Updated `stylelint-config-standard` to 30.
+
+- Updated `stylelint-config-standard` to 30.
 
 ## 0.13
-* Updated `stylelint-config-standard` to 29.
-* Added `media-feature-range-notation` rule.
+
+- Updated `stylelint-config-standard` to 29.
+- Added `media-feature-range-notation` rule.
 
 ## 0.12
-* Updated `stylelint-config-standard` to 28.
+
+- Updated `stylelint-config-standard` to 28.
 
 ## 0.11
-* Updated `stylelint-config-standard` to 27.
-* Added `gamut/color-no-out-gamut-range` rule.
+
+- Updated `stylelint-config-standard` to 27.
+- Added `gamut/color-no-out-gamut-range` rule.
 
 ## 0.10.1
-* Removes `oklch()` fix because of upstream fix.
+
+- Removes `oklch()` fix because of upstream fix.
 
 ## 0.10
-* Added `keyframe-block-no-duplicate-selectors` rule.
+
+- Added `keyframe-block-no-duplicate-selectors` rule.
 
 ## 0.9.2
-* Fixed `oklch()` function support.
+
+- Fixed `oklch()` function support.
 
 ## 0.9.1
-* Updated `stylelint-config-standard`.
+
+- Updated `stylelint-config-standard`.
 
 ## 0.9
-* Use `0.x` instead of `x%` for alpha.
+
+- Use `0.x` instead of `x%` for alpha.
 
 ## 0.8.1
-* Updated `stylelint-config-standard`.
-* Removed `function-url-quotes`.
-* Removed `no-irregular-whitespace`.
+
+- Updated `stylelint-config-standard`.
+- Removed `function-url-quotes`.
+- Removed `no-irregular-whitespace`.
 
 ## 0.8
-* Added rule to prohibit `rgba()` and `hsla()` functions.
+
+- Added rule to prohibit `rgba()` and `hsla()` functions.
 
 ## 0.7.1
-* Fixed SugarSS conflict.
+
+- Fixed SugarSS conflict.
 
 ## 0.7
-* Removed color function rules.
-* Added code style rules which had conflict with SugarSS.
+
+- Removed color function rules.
+- Added code style rules which had conflict with SugarSS.
 
 ## 0.6
-* Disabled `property-no-vendor-prefix`.
-* Added color format rules.
-* Added rules for space before `{`.
+
+- Disabled `property-no-vendor-prefix`.
+- Added color format rules.
+- Added rules for space before `{`.
 
 ## 0.5
-* Disabled `selector-class-pattern` rule.
+
+- Disabled `selector-class-pattern` rule.
 
 ## 0.4.1
-* Updated `stylelint-order`.
+
+- Updated `stylelint-order`.
 
 ## 0.4
-* Moved to `stylelint` 14.
+
+- Moved to `stylelint` 14.
 
 ## 0.3.1
-* Reduced package size.
+
+- Reduced package size.
 
 ## 0.3
-* Used `stylelint-config-standard` 21.0.
-* Moved from `peerDependencies` to `dependencies`.
+
+- Used `stylelint-config-standard` 21.0.
+- Moved from `peerDependencies` to `dependencies`.
 
 ## 0.2
-* Removed `custom-property-empty-line-before` rule.
+
+- Removed `custom-property-empty-line-before` rule.
 
 ## 0.1.4
-* Add `:global()` support.
-* Disable `declaration-colon-newline-after` rule.
+
+- Add `:global()` support.
+- Disable `declaration-colon-newline-after` rule.
 
 ## 0.1.3
-* Use `stylelint-config-standard` 20.0.
+
+- Use `stylelint-config-standard` 20.0.
 
 ## 0.1.2
-* Use `stylelint` 13.0.
+
+- Use `stylelint` 13.0.
 
 ## 0.1.1
-* Use `stylelint-order` 4.0.
+
+- Use `stylelint-order` 4.0.
 
 ## 0.1
-* Initial release.
+
+- Initial release.
