@@ -10,7 +10,7 @@
   "scripts": {
     "test": "stylelint test/*.css"
   },
-  "author": "Andrey Sitnik <andrey@sitnik.ru>",
+  "author": "Andrey Sitnik <andrey@sitnik.es>",
   "license": "MIT",
   "repository": "logux/stylelint-config",
   "dependencies": {
