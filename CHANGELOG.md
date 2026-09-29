@@ -2,6 +2,10 @@
 
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## 1.1.0
+
+- Ignore four-value that could be shortened to three values shortcut.
+
 ## 1.0.1
 
 - Fixed `exports` in `package.json`.
