@@ -47,6 +47,12 @@ export default {
       {
         ignorePseudoClasses: ['global']
       }
+    ],
+    'shorthand-property-no-redundant-values': [
+      true,
+      {
+        ignore: ['four-into-three-edge-values']
+      }
     ]
   }
 }
