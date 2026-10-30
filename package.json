@@ -19,16 +19,14 @@
     "test": "stylelint test/*.css"
   },
   "dependencies": {
-    "stylelint-config-recess-order": "^7.8.0",
+    "stylelint-config-recess-order": "^7.9.0",
     "stylelint-config-standard": "^40.0.0",
     "stylelint-gamut": "^2.0.1",
-    "stylelint-order": "^8.1.1"
+    "stylelint-order": "^8.1.2"
   },
   "devDependencies": {
     "@logux/oxc-configs": "^1.2.0",
-    "actions-up": "^1.21.0",
-    "multiocular": "^0.8.4",
-    "stylelint": "^17.15.0"
+    "stylelint": "^17.16.0"
   },
   "peerDependencies": {
     "stylelint": "^17.0.0"
