@@ -2,6 +2,10 @@
 
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## 2.0.0
+
+- Added forcing three-value shortcut to be four-value.
+
 ## 1.1.0
 
 - Ignore four-value that could be shortened to three values shortcut.
