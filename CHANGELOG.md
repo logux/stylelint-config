@@ -2,6 +2,17 @@
 
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## 3.0.0
+
+- Moved to Stylelint 18.
+- Moved to Stylelint Standard 41.
+- Added `at-charset-rule-no-invalid`.
+- Added `value-no-invalid`.
+- Added `selector-no-deprecated`.
+- Added `selector-no-invalid`.
+- Added `selector-no-unmatchable`.
+- Removed `declaration-block-single-line-max-declarations`.
+
 ## 2.0.0
 
 - Added forcing three-value shortcut to be four-value.
