@@ -2,6 +2,10 @@
 
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## 3.0.1
+
+- Fixed peer dependencies.
+
 ## 3.0.0
 
 - Moved to Stylelint 18.
